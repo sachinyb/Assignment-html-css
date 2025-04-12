@@ -1,0 +1,12 @@
+h1{
+    color:rgb(142, 156, 183);
+    font-size: 40px;
+    text-align: center;
+}
+*{
+    margin: 0%;
+    padding: 20px;
+}
+#myid{
+    color: blue;
+}
